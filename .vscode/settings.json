@@ -1,0 +1,8 @@
+{
+    "prettier.tabWidth": 4,
+    "editor.detectIndentation": false,
+    "prettier.useTabs": true,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "prettier.bracketSpacing": false
+}

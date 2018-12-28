@@ -20,7 +20,7 @@
       true,
       "rxjs/Rx"
     ],
-    "import-spacing": true,
+    "import-spacing": false,
     "indent": [
       true,
       "spaces"
@@ -28,8 +28,8 @@
     "interface-over-type-literal": true,
     "label-position": true,
     "max-line-length": [
-      true,
-      140
+      false,
+      99999
     ],
     "member-access": false,
     "member-ordering": [
@@ -60,7 +60,7 @@
     "no-empty-interface": true,
     "no-eval": true,
     "no-inferrable-types": [
-      true,
+      false,
       "ignore-params"
     ],
     "no-misused-new": true,
@@ -94,7 +94,7 @@
       "always"
     ],
     "triple-equals": [
-      true,
+      false,
       "allow-null-check"
     ],
     "typedef-whitespace": [
